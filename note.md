@@ -1,4 +1,4 @@
-## Breaking down <a> attributes:
+## Breaking down <a> attributes
 
 1.) class="button button-default" | The first "button" here is telling this <a> tag that it should make this element a button and applies the default styling in `css/brands.css`.
 
@@ -12,8 +12,8 @@ If you want to make this button to use the brand colors for Discord, just change
 
 4.) rel="noopener" | This attribute instructs the browser to navigate to the target resource without granting the new browsing context access to the document that opened it.
 This is especially useful when opening untrusted links. https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/noopener
-## Breaking down the <img> attributes:
 
+## Breaking down the <img> attributes
 
 1.) class="icon" | This class is telling the <img> tag that it should use the styling for icons found in `css/brands.css`.
 
