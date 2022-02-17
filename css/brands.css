@@ -99,8 +99,8 @@ button:hover,
   color: #ffffff;
   background-color: #ff039e;
 }
-.button.button-patreon:hover,
-.button.button-patreon:focus {
+.button.button-osu!:hover,
+.button.button-osu!:focus {
   filter: brightness(90%);
 }
 
