@@ -99,7 +99,10 @@ button:hover,
   color: #ffffff;
   background-color: #ff039e;
 }
-
+.button.button-patreon:hover,
+.button.button-patreon:focus {
+  filter: brightness(90%);
+}
 /* Patreon */
 .button.button-patreon {
   color: #ffffff;
