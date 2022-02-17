@@ -103,6 +103,7 @@ button:hover,
 .button.button-patreon:focus {
   filter: brightness(90%);
 }
+
 /* Patreon */
 .button.button-patreon {
   color: #ffffff;
