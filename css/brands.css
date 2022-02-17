@@ -93,6 +93,11 @@ button:hover,
 .button.button-bandcamp:focus {
   filter: brightness(90%);
 }
+/* osu! */
+.button.button-osu! {
+  color: #ffffff;
+  background-color: #ff039e;
+}
 
 /* Patreon */
 .button.button-patreon {
