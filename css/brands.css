@@ -94,13 +94,13 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* osu! */
-.button.button-osu! {
+/* osu */
+.button.button-osu {
   color: #ffffff;
   background-color: #ff039e;
 }
-.button.button-osu!:hover,
-.button.button-osu!:focus {
+.button.button-osu:hover,
+.button.button-osu:focus {
   filter: brightness(90%);
 }
 
