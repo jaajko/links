@@ -124,6 +124,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Newgrounds */
+.button.button-newgrounds {
+  color: #ffffff;
+  background-color: #dbb612;
+}
+.button.button-newgrounds:hover,
+.button.button-newgrounds:focus {
+  filter: brightness(90%);
+}
+
 /* Reddit */
 .button.button-reddit {
   color: #000000;
